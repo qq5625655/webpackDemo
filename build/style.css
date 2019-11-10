@@ -1,0 +1,14 @@
+
+h2[data-v-a88b3564]{
+  color: red;
+  background: blue;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+h2 p[data-v-a88b3564]{
+    color: blue;
+}
+
+
