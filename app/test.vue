@@ -6,13 +6,16 @@
   
 </template>
 <script>
+const a = '111';
+let promise1 = new Promise((res, rej)=>{
+  res(1)
+}).then((res)=>{
+  console.log(res);
+})
 export default {
   name:'test'
 }
-// 异步处理，这里进行的是异步
-import('./yibu.js').then(({add})=>{
-  console.log(add(2, 3));
-})
+
 </script>
 <style scoped lang="scss">
   h2{

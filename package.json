@@ -31,12 +31,15 @@
     "@babel/preset-env": "^7.6.3",
     "autoprefixer": "^9.6.5",
     "babel-loader": "^8.0.6",
+    "core-js": "^3.6.5",
     "cross-env": "^6.0.3",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "vue": "^2.6.10",
+    "vue-router": "^3.3.2",
+    "vuex": "^3.4.0",
     "webpack-dashboard": "^3.2.0",
     "webpack-merge": "^4.2.2"
   }
